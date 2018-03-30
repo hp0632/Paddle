@@ -1,1 +1,1 @@
-k8s_aws_en.md
+k8s_aws_cn.md
